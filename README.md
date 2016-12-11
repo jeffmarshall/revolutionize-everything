@@ -1,4 +1,5 @@
-# startup-adventure
+Startup Adventure
+===============================================================================
 
 An open-source choose-your-own adventure game
 
